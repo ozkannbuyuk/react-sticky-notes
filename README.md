@@ -2,6 +2,10 @@
    React - Sticky Notes
 </h1>
 
+<h2>
+📷 Screenshots
+</h2>
+
 <p align="center">
   <img src="https://github.com/ozkannbuyuk/react-sticky-notes/assets/111967202/6a2e4fe7-a593-41e6-9ec5-8e8eed9eac91" width="700" />
 </p>
